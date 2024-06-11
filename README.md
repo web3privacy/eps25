@@ -16,7 +16,7 @@ Public repository of the code for the Prague 2024 Web3privacy Summit -  built wi
 
 ## RELEASES
 
-- [v 1.3 - w3ps2 website at time of Summit - May 2024](https://github.com/web3privacy/events_web/releases/tag/v1.3)
+- [v 1.3 - w3ps2 website at time of Summit - May 2024](https://github.com/web3privacy/s24prg/releases/tag/v1.3)
  
 ## LICENSE
 
