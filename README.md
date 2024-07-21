@@ -12,7 +12,8 @@ Public repository of the code for the Prague 2024 Web3privacy Summit -  built wi
 
 ## COMMENTS
 
-- This repository is automatically deployed on Github Pages and has it's own custom subdomain: [prague24.web3privacy.info](https://prague24.web3privacy.info/)
+- This repository is automatically deployed on Github Pages 
+- The website has a unique subdomain: [s24prg.web3privacy.info](https://s24prg.web3privacy.info/)
 
 ## RELEASES
 
