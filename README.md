@@ -1,6 +1,6 @@
-# s24prg
+# eps25
 
-Public repository of the code for the Prague 2024 Web3privacy Summit -  built with simple web-standard HTML and CSS
+Public repository of the code for the Ethereum Privacy Stack summit 2025 -  built with simple web-standard HTML and CSS
 
 ## CONTENTS
 
@@ -13,7 +13,7 @@ Public repository of the code for the Prague 2024 Web3privacy Summit -  built wi
 ## COMMENTS
 
 - This repository is automatically deployed on Github Pages 
-- The website has a unique subdomain: [s24prg.web3privacy.info](https://s24prg.web3privacy.info/)
+- The website has a unique subdomain: TBD
 
 ## RELEASES
 
