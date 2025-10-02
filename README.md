@@ -13,11 +13,11 @@ Public repository of the code for the Ethereum Privacy Stack summit 2025 -  buil
 ## COMMENTS
 
 - This repository is automatically deployed on Github Pages 
-- The website has a unique subdomain: TBD
+- The website has this domain: [https://web3privacy.github.io/eps25/](https://web3privacy.github.io/eps25/)
 
 ## RELEASES
 
-- [v 1.3 - w3ps2 website at time of Summit - May 2024](https://github.com/web3privacy/s24prg/releases/tag/v1.3)
+- [v 1 - eps25 website at time of Devconnect - Nov 2025](https://github.com/web3privacy/s24prg/releases/tag/v1.3)
  
 ## LICENSE
 
