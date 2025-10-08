@@ -416,6 +416,25 @@ footer a:hover,
 .markdown.multiline > p:not(:last-child) {
   margin-bottom: 2.5rem;
 }
+.about-summary {
+  margin-left: 1rem;
+  margin-right: 1rem;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media (min-width: 640px) {
+  .about-summary {
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
+}
+@media (min-width: 768px) {
+  .about-summary {
+    margin-left: 3rem;
+    margin-right: 3rem;
+  }
+}
 .middle-pane-medium {
   margin-left: auto;
   margin-right: auto;
