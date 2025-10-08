@@ -667,6 +667,15 @@ person-item:hover .table-custom th {
 .partner-item .partner-img {
   filter: grayscale(0%);
 }
+
+.partner-item .partner-img {
+  width: 80%;
+  height: auto;
+  object-fit: contain;
+  margin: 0 auto;
+  display: flex;
+}
+
 .partner-item:hover {
   filter: grayscale(25%);
   cursor: help;
