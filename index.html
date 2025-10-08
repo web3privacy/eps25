@@ -56,20 +56,38 @@
                     />
                   </div>
                 </div>
-                <div
-                  class="flex items-center lg:gap-8 xl:gap-14 text-base darker"
-                >
-                  <div class="lg:block m-1">
+
+                <!-- Mobile Menu Toggle -->
+                <input
+                  type="checkbox"
+                  id="mobile-menu-toggle"
+                  class="mobile-menu-checkbox"
+                />
+                <label for="mobile-menu-toggle" class="mobile-menu-icon">
+                  <span></span>
+                  <span></span>
+                  <span></span>
+                </label>
+
+                <!-- Mobile Menu Overlay -->
+                <label
+                  for="mobile-menu-toggle"
+                  class="mobile-menu-overlay"
+                ></label>
+
+                <!-- Navigation Menu -->
+                <div class="nav-menu">
+                  <div class="nav-item">
                     <a class="text-xl hover:underline" href="#speakers"
                       >SPEAKERS</a
                     >
                   </div>
-                  <div class="lg:block m-1">
+                  <div class="nav-item">
                     <a class="text-xl hover:underline" href="#program"
                       >PROGRAM</a
                     >
                   </div>
-                  <div class="lg:block m-1">
+                  <div class="nav-item">
                     <a
                       class="text-xl hover:underline"
                       href="https://ticketh.xyz/ethereumprivacy/stack/"
