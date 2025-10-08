@@ -862,6 +862,14 @@ person-item:hover .table-custom th {
 .hidden {
   display: none;
 }
+.hidden-mobile {
+  display: none;
+}
+@media (min-width: 768px) {
+  .hidden-mobile {
+    display: block;
+  }
+}
 .aspect-\[16\/11\] {
   aspect-ratio: 16/11;
 }
