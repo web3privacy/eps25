@@ -600,11 +600,60 @@ person-item:hover .table-custom th {
   color: #999999;
 }
 #intro {
-  background-image: url(/img/bg-1.webp);
-  background-repeat: no-repeat;
-  background-size: cover;
   background-color: black;
-  background-position: center;
+}
+.intro-container {
+  display: flex;
+  width: 100%;
+  max-width: 1536px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  gap: 3rem;
+  align-items: center;
+}
+.intro-content {
+  flex: 1;
+  min-width: 0;
+  padding-right: 2rem;
+}
+.intro-image {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.intro-img {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+.intro-date-box {
+  border-style: solid;
+  border-color: #e5e7eb;
+  border-width: 1px;
+  margin-bottom: 5rem;
+  display: inline-block;
+}
+.intro-ticket-box {
+  display: inline-block;
+}
+@media (max-width: 1024px) {
+  .intro-container {
+    flex-direction: column;
+    text-align: center;
+    padding: 2rem;
+  }
+  .intro-content {
+    padding-right: 0;
+    width: 100%;
+  }
+  .intro-image {
+    width: 100%;
+    max-width: 500px;
+  }
 }
 #manifesto {
   background-image: url(/img/manifesto.webp);
