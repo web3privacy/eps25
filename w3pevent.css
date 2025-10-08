@@ -1533,3 +1533,15 @@ person-item:hover .table-custom th {
     white-space: nowrap;
   }
 }
+
+
+.ticket-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  align-items: start;
+  gap: 16px;
+
+  @media (min-width: 768px) {
+    grid-template-columns: 300px 120px;
+  }
+}
